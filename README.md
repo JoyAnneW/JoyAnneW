@@ -11,7 +11,7 @@ I'm Joy, an English teacher turned software developer.
 
 - 🔭 I’m currently working on a fun side project, which is an ecommerce site built with Next.js, styled using Chakra UI and featuring Stripe integration and Auth0 for authentication. Strapi CMS is used to manage inventory and data stored there is queried via the GraphQL API. 
 
-- 🌱 Aside from the technologies mentioned above, I’m currently learning to implement end-to-end, integration and unit tests at work using Jest, Vue Test Utils, and Cypress.
+- 🌱 Aside from the technologies mentioned above, I’m currently learning to implement end-to-end, integration and unit tests at work using Jest, Vue Test Utils, and Cypress. I'm also working my way through Josh Comeau's incredible CSS for JS Developers course!
 
 ---
 
